@@ -1,0 +1,14 @@
+factor,outcome,test,n,k_groups,statistic,df,p,effect_size,effect_name,p_holm,significant
+chronotype,overall_productivity,Kruskal-Wallis,39,3,0.4689807162534574,2,0.7909738603243339,0.0,epsilon^2,1.0,False
+chronotype,sleep_hours,Kruskal-Wallis,39,3,0.6430707307733239,2,0.7250349884313222,0.0,epsilon^2,1.0,False
+chronotype,wake_h,Kruskal-Wallis,39,3,23.12155950600875,2,9.532726801942895e-06,0.5867099862780208,epsilon^2,0.00011439272162331474,True
+chronotype,bed_h_night,Kruskal-Wallis,39,3,27.573883381132315,2,1.0289808716298363e-06,0.7103856494758977,epsilon^2,1.3376751331187873e-05,True
+chronotype,follow_plan,Kruskal-Wallis,39,3,0.604943034230915,2,0.738989536512832,0.0,epsilon^2,1.0,False
+chronotype,reschedule_freq,Kruskal-Wallis,39,3,2.6465696465696484,2,0.2662592493325206,0.017960267960268013,epsilon^2,1.0,False
+plan_style,follow_plan,Kruskal-Wallis,39,5,20.443349669820748,4,0.000408169644889286,0.48362793146531613,epsilon^2,0.0044898660937821465,True
+plan_style,overall_productivity,Kruskal-Wallis,39,5,9.507323669596424,4,0.04959697962059157,0.1619801079293066,epsilon^2,0.4959697962059157,False
+plan_style,reschedule_freq,Kruskal-Wallis,39,5,1.09698549281882,4,0.8947501960198051,0.0,epsilon^2,1.0,False
+plan_style,app_score,Kruskal-Wallis,39,5,4.672858652177194,4,0.3225399885265683,0.019789960358152756,epsilon^2,1.0,False
+level,overall_productivity,Kruskal-Wallis,39,4,4.630975206611578,3,0.20090092035349025,0.04659929161747366,epsilon^2,1.0,False
+living,overall_productivity,Kruskal-Wallis,39,3,0.18971816062725422,2,0.9095010920467035,0.0,epsilon^2,1.0,False
+age_group,overall_productivity,Kruskal-Wallis,39,4,5.496167543200616,3,0.13886802050692681,0.07131907266287474,epsilon^2,1.0,False

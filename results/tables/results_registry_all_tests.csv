@@ -1,0 +1,73 @@
+family,test,outcome,factor,n,statistic,df,p,effect_size,effect_name,p_holm_within_family,reject_at_.05
+Multiple-response items,Cochran's Q,reasons plans fail,option,39,22.093275488069413,7,0.002448029618495589,,,0.002448029618495589,True
+Multiple-response items,Cochran's Q,what decides timing,option,39,24.95744680851064,6,0.0003477048475782288,,,0.0006954096951564576,True
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,overall_productivity,chronotype,39,0.4689807162534574,2,0.7909738603243339,0.0,epsilon^2,1.0,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,sleep_hours,chronotype,39,0.6430707307733239,2,0.7250349884313222,0.0,epsilon^2,1.0,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,wake_h,chronotype,39,23.12155950600875,2,9.532726801942895e-06,0.5867099862780208,epsilon^2,0.00011439272162331474,True
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,bed_h_night,chronotype,39,27.573883381132315,2,1.0289808716298363e-06,0.7103856494758977,epsilon^2,1.3376751331187873e-05,True
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,follow_plan,chronotype,39,0.604943034230915,2,0.738989536512832,0.0,epsilon^2,1.0,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,reschedule_freq,chronotype,39,2.6465696465696484,2,0.2662592493325206,0.017960267960268013,epsilon^2,1.0,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,follow_plan,plan_style,39,20.443349669820748,4,0.000408169644889286,0.48362793146531613,epsilon^2,0.0044898660937821465,True
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,overall_productivity,plan_style,39,9.507323669596424,4,0.04959697962059157,0.1619801079293066,epsilon^2,0.4959697962059157,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,reschedule_freq,plan_style,39,1.09698549281882,4,0.8947501960198051,0.0,epsilon^2,1.0,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,app_score,plan_style,39,4.672858652177194,4,0.3225399885265683,0.019789960358152756,epsilon^2,1.0,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,overall_productivity,level,39,4.630975206611578,3,0.20090092035349025,0.04659929161747366,epsilon^2,1.0,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,overall_productivity,living,39,0.18971816062725422,2,0.9095010920467035,0.0,epsilon^2,1.0,False
+"Respondent group differences (Holm, 13 tests)",Kruskal-Wallis,overall_productivity,age_group,39,5.496167543200616,3,0.13886802050692681,0.07131907266287474,epsilon^2,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,follow_plan,reschedule_freq,39,-0.209380592736982,,0.2008006315251036,-0.209380592736982,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,follow_plan,overall_productivity,39,0.5821790671330678,,0.00010111018641343261,0.5821790671330678,rho,0.0027299750331626804,True
+"Respondent correlations (Holm, 28 tests)",Spearman,follow_plan,sleep_hours,39,0.02531500912886096,,0.8784196069622753,0.02531500912886096,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,follow_plan,wake_h,39,0.25373441089124776,,0.11907988720379517,0.25373441089124776,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,follow_plan,bed_h_night,39,0.23146318411798433,,0.156250661043299,0.23146318411798433,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,follow_plan,n_tasks_done,39,0.18523657304095656,,0.2589109157327962,0.18523657304095656,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,follow_plan,app_score,39,-0.1274453158892397,,0.43942675441772633,-0.1274453158892397,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,reschedule_freq,overall_productivity,39,-0.18873994900402266,,0.2498514646348808,-0.18873994900402266,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,reschedule_freq,sleep_hours,39,-0.09971211805409821,,0.5458766803341195,-0.09971211805409821,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,reschedule_freq,wake_h,39,-0.22228736412995917,,0.1737963644779046,-0.22228736412995917,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,reschedule_freq,bed_h_night,39,-0.19675593320712237,,0.229929259590843,-0.19675593320712237,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,reschedule_freq,n_tasks_done,39,-0.05768408946916076,,0.7272340582433043,-0.05768408946916076,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,reschedule_freq,app_score,39,-0.05446002287083792,,0.7419426754736735,-0.05446002287083792,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,overall_productivity,sleep_hours,39,0.003133038143146752,,0.9848975407184093,0.003133038143146752,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,overall_productivity,wake_h,39,0.23830526579403666,,0.14403242025299337,0.23830526579403666,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,overall_productivity,bed_h_night,39,0.23288660983197773,,0.15364870791731144,0.23288660983197773,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,overall_productivity,n_tasks_done,39,-0.006817909107271636,,0.9671420613037641,-0.006817909107271636,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,overall_productivity,app_score,39,-0.29639783933108577,,0.06692234065498467,-0.29639783933108577,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,sleep_hours,wake_h,39,0.40956219041042596,,0.009620424455318646,0.40956219041042596,rho,0.2501310358382848,False
+"Respondent correlations (Holm, 28 tests)",Spearman,sleep_hours,bed_h_night,39,-0.08584580778617158,,0.6033247322171428,-0.08584580778617158,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,sleep_hours,n_tasks_done,39,-0.04320826948768142,,0.7939550570823561,-0.04320826948768142,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,sleep_hours,app_score,39,0.11451400319592747,,0.48758117615578406,0.11451400319592747,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,wake_h,bed_h_night,39,0.8452972808917342,,1.2926729802288649e-11,0.8452972808917342,rho,3.619484344640822e-10,True
+"Respondent correlations (Holm, 28 tests)",Spearman,wake_h,n_tasks_done,39,-0.15481611308438395,,0.3466737602110028,-0.15481611308438395,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,wake_h,app_score,39,0.30401956182644885,,0.05988465566079245,0.30401956182644885,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,bed_h_night,n_tasks_done,39,-0.11755115268475123,,0.4760320378928434,-0.11755115268475123,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,bed_h_night,app_score,39,0.3009433308791831,,0.06265076308148666,0.3009433308791831,rho,1.0,False
+"Respondent correlations (Holm, 28 tests)",Spearman,n_tasks_done,app_score,39,0.00144200898357542,,0.9930486435871333,0.00144200898357542,rho,1.0,False
+Categorical association,Chi-square (permutation p),peak band,chronotype,37,46.25308025308025,4,0.0021997800219978004,0.7765212489327471,Cramer's V (bias-corrected),0.0021997800219978004,True
+"Task-type differences (Holm, 6 tests)",Cluster-robust Wald F,energy,task type,301,19.36094742227671,"9,38",1.2623876830773063e-11,0.4403629754840558,epsilon^2 (KW),7.574326098463838e-11,True
+"Task-type differences (Holm, 6 tests)",Cluster-robust Wald F,productivity,task type,301,17.671880199298947,"9,38",4.900425865240844e-11,0.1874181197767419,epsilon^2 (KW),2.4502129326204217e-10,True
+"Task-type differences (Holm, 6 tests)",Cluster-robust Wald F,satisfaction,task type,301,12.753299139372437,"9,38",4.874031655485689e-09,0.187578969615955,epsilon^2 (KW),1.9496126621942754e-08,True
+"Task-type differences (Holm, 6 tests)",Cluster-robust Wald F,completed,task type,301,7.018748403706201,"9,38",6.748069717111532e-06,0.09255204240921015,epsilon^2 (KW),1.3496139434223064e-05,True
+"Task-type differences (Holm, 6 tests)",Cluster-robust Wald F,postponed,task type,301,6.206685655448428,"9,38",2.4054489448712907e-05,0.12952432886085674,epsilon^2 (KW),2.4054489448712907e-05,True
+"Task-type differences (Holm, 6 tests)",Cluster-robust Wald F,interruptions,task type,301,8.123338917449173,"9,38",1.3458986884445157e-06,0.1674684158187395,epsilon^2 (KW),4.037696065333547e-06,True
+Task-level regression,Cluster-robust OLS,productivity,all predictors (R2),301,0.4230702122076685,19,,0.4230702122076685,R^2,,False
+Regression: productivity,Cluster-robust t,productivity,energy,301,2.154527318939758,38,0.03760204134378757,0.19263949515340262,z-scored beta,0.20558779254391518,False
+Regression: productivity,Cluster-robust t,productivity,importance,301,1.8300111326845745,38,0.07510112584606803,0.1686106879163408,z-scored beta,0.22530337753820406,False
+Regression: productivity,Cluster-robust t,productivity,interruptions,301,-2.311974034849725,38,0.02629449473154387,-0.155280611442414,z-scored beta,0.18406146312080707,False
+Regression: productivity,Cluster-robust t,productivity,postponed,301,-0.6783087563457537,38,0.5016859783143701,-0.054887162087783534,z-scored beta,0.8176244286957709,False
+Regression: productivity,Cluster-robust t,productivity,deadline,301,-0.8352242673479844,38,0.40881221434788545,-0.06277199154130075,z-scored beta,0.8176244286957709,False
+Regression: productivity,Cluster-robust t,productivity,flexibility,301,-2.1960324732631493,38,0.03426463209065253,-0.11172156804014866,z-scored beta,0.20558779254391518,False
+Regression: productivity,Cluster-robust t,productivity,log_duration,301,2.0180144828569406,38,0.05069044271179302,0.1264928998436295,z-scored beta,0.20558779254391518,False
+Regression: productivity,Cluster-robust t,productivity,follow_plan,301,3.199649250488752,38,0.0027762028776472623,0.23689483927993862,z-scored beta,0.0222096230211781,True
+Regression: productivity,Cluster-robust t,productivity,sleep_hours,301,3.6423339346086427,38,0.000803026336313966,0.2556349229856046,z-scored beta,0.0072272370268256945,True
+Task-level regression,Cluster-robust OLS,satisfaction,all predictors (R2),301,0.3393341795937682,19,,0.3393341795937682,R^2,,False
+Regression: satisfaction,Cluster-robust t,satisfaction,energy,301,1.1768653165412835,38,0.24656861549651699,0.11398534542166701,z-scored beta,1.0,False
+Regression: satisfaction,Cluster-robust t,satisfaction,importance,301,2.821058147146485,38,0.007568828183767142,0.28837087274402406,z-scored beta,0.06811945365390427,False
+Regression: satisfaction,Cluster-robust t,satisfaction,interruptions,301,-2.1329747435417135,38,0.03944604932745253,-0.17177535415159936,z-scored beta,0.3155683946196202,False
+Regression: satisfaction,Cluster-robust t,satisfaction,postponed,301,0.3103638382531439,38,0.7579802086473348,0.026209650948790256,z-scored beta,1.0,False
+Regression: satisfaction,Cluster-robust t,satisfaction,deadline,301,-1.259044874215384,38,0.21569371450633512,-0.08838970573054343,z-scored beta,1.0,False
+Regression: satisfaction,Cluster-robust t,satisfaction,flexibility,301,-0.5417667651317365,38,0.5911419389996535,-0.03201821640094004,z-scored beta,1.0,False
+Regression: satisfaction,Cluster-robust t,satisfaction,log_duration,301,0.8589245170182719,38,0.3957681288017424,0.083782840573188,z-scored beta,1.0,False
+Regression: satisfaction,Cluster-robust t,satisfaction,follow_plan,301,1.8719551306293545,38,0.0689244763752335,0.1461320663569847,z-scored beta,0.46528659474913,False
+Regression: satisfaction,Cluster-robust t,satisfaction,sleep_hours,301,1.889521808164416,38,0.06646951353559,0.13055009665355502,z-scored beta,0.46528659474913,False
+"Chronotype x time-of-day (exploratory, Holm, 2 tests)",Cluster-robust Wald F,energy,chronotype x morning/night,301,1.9502423460142109,"4,38",0.12196636068425933,0.45607265716571477,R^2,0.24393272136851865,False
+"Chronotype x time-of-day (exploratory, Holm, 2 tests)",Cluster-robust Wald F,productivity,chronotype x morning/night,301,0.8679187050319106,"4,38",0.4920356320892805,0.2264279754279499,R^2,0.4920356320892805,False
